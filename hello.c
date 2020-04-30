@@ -6,5 +6,7 @@ int main(void){
 
   printf("Edit test\n");
 
+  printf("Branch test\n");
+
   return 0;
 }
